@@ -1,6 +1,6 @@
 from PySide6.QtWidgets import QLabel
 
-from _qinter.widget import QTkWidgetBase
+from qinter.widget import QTkWidgetBase
 
 
 class LabelImpl(QTkWidgetBase):

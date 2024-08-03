@@ -1,6 +1,6 @@
 from PySide6.QtWidgets import QMainWindow
 
-from _qinter.utils import _unpack_tk_geometry
+from qinter.utils import _unpack_tk_geometry
 
 
 class QTkMainWindowImpl(QMainWindow):

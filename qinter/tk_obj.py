@@ -1,7 +1,7 @@
 from PySide6.QtWidgets import QApplication
 
-from _qinter.base_objs import QTkWidgetWrapper
-from _qinter.mainwindow import QTkMainWindowImpl
+from qinter.base_objs import QTkWidgetWrapper
+from qinter.mainwindow import QTkMainWindowImpl
 
 
 class TkImpl(QTkWidgetWrapper):

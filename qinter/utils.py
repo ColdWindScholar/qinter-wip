@@ -1,4 +1,4 @@
-from _qinter.exceptions import TclError
+from qinter.exceptions import TclError
 
 
 def _bad_geometry(s: str):

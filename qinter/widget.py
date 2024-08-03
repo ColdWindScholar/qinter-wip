@@ -2,7 +2,7 @@ from typing import Optional
 
 from PySide6.QtWidgets import QWidget
 
-from _qinter.base_objs import QTkWidgetWrapper
+from qinter.base_objs import QTkWidgetWrapper
 
 
 class QTkWidgetBase(QTkWidgetWrapper):
